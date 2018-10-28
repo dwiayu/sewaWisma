@@ -60,7 +60,7 @@
         <h4 class="mb-5">
           <em>Sewa Wisma Malang dengan nyaman dan mudah </em>
         </h4>
-        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Selayang Pandang</a>
+        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#services">Check It Now</a>
       </div>
       <div class="overlay"></div>
     </header>
